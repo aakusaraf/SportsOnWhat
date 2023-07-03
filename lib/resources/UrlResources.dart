@@ -3,8 +3,8 @@ class UrlResources
 
   // static String BASE_URL = "http://127.0.0.1:8000/";
   // static String API =  "http://127.0.0.1:8000/api/";
-  static String BASE_URL = "http://192.168.29.12/sportsonwhat/";
-  static String API =  "http://192.168.29.12/sportsonwhat/api/";
+  static String BASE_URL = "http://192.168.43.12/sportsonwhat/";
+  static String API =  "http://192.168.43.12/sportsonwhat/api/";
   static String LOGIN = API + "userlogin";
   static String REGISTER = API + "userregister";
   static String OTP_VERIFY = API + "otpverify";
